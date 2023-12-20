@@ -1,5 +1,0 @@
-USER = 'postgres'
-PASSWORD = 'alif'
-HOST = 'localhost'
-PORT = '5432'
-DATABASE_NAME = 'db_uas'
